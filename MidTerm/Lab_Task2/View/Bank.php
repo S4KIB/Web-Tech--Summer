@@ -93,13 +93,13 @@
 </tr>
 
 <tr>
-    <td><input type="checkbox">I agree to the terms and conditions
+    <td><input type="checkbox">I agree to the terms and conditions 
 
 <tr>
 <td></td>
 <td><input type="Submit" value="Register" style="background-color: blue; color:white; padding:8px"  ></td>
 <td><input type="Submit" value="Clear" style="background-color: blue; color:white; padding:8px"></td>
-
+sakib
 </tr>
  </table>
 </body>
